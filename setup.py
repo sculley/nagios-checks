@@ -6,7 +6,7 @@ setup(
     name='nagios-checks',
     version='0.0.1',
     packages=[],
-    scripts=['bin/check_aws_vpn_connection'],
+    scripts=['bin/'],
     include_package_data=True,
     license='MIT License',
     author='Sam Culley',
